@@ -1,0 +1,44 @@
+[2021-06-23 14:53:52,006] DESKTOP-41IO6G7/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2021-06-23 14:53:52,068] DESKTOP-41IO6G7/INFO/locust.main: Starting Locust 1.5.3
+[2021-06-23 16:04:48,542] DESKTOP-41IO6G7/INFO/locust.main: Running teardowns...
+[2021-06-23 16:04:48,591] DESKTOP-41IO6G7/INFO/locust.main: Shutting down (exit code 0), bye.
+[2021-06-23 16:04:48,591] DESKTOP-41IO6G7/INFO/locust.main: Cleaning up runner...
+[2021-06-23 16:04:48,592] DESKTOP-41IO6G7/DEBUG/locust.runners: Stopping all users
+[2021-06-23 16:05:03,126] DESKTOP-41IO6G7/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2021-06-23 16:05:03,219] DESKTOP-41IO6G7/INFO/locust.main: Starting Locust 1.5.3
+[2021-06-23 17:19:18,918] DESKTOP-41IO6G7/INFO/locust.main: Running teardowns...
+[2021-06-23 17:19:18,927] DESKTOP-41IO6G7/INFO/locust.main: Shutting down (exit code 0), bye.
+[2021-06-23 17:19:18,927] DESKTOP-41IO6G7/INFO/locust.main: Cleaning up runner...
+[2021-06-23 17:19:18,927] DESKTOP-41IO6G7/DEBUG/locust.runners: Stopping all users
+[2021-06-23 17:20:02,905] DESKTOP-41IO6G7/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2021-06-23 17:20:02,919] DESKTOP-41IO6G7/INFO/locust.main: Starting Locust 1.5.3
+[2021-06-23 17:20:27,433] DESKTOP-41IO6G7/INFO/locust.runners: Spawning 1 users at the rate 1 users/s (0 users already running)...
+[2021-06-23 17:20:27,434] DESKTOP-41IO6G7/INFO/locust.runners: All users spawned: MyUser: 1 (1 total running)
+[2021-06-23 17:20:27,438] DESKTOP-41IO6G7/DEBUG/urllib3.connectionpool: Starting new HTTP connection (1): suprdaily-staging-2.ap-south-1.elasticbeanstalk.com:80
+[2021-06-23 17:20:30,969] DESKTOP-41IO6G7/DEBUG/urllib3.connectionpool: http://suprdaily-staging-2.ap-south-1.elasticbeanstalk.com:80 "GET /v2/products/sku-attributes// HTTP/1.1" 200 None
+[2021-06-23 17:20:31,177] DESKTOP-41IO6G7/INFO/root: Log message
+[2021-06-23 17:20:35,142] DESKTOP-41IO6G7/DEBUG/urllib3.connectionpool: http://suprdaily-staging-2.ap-south-1.elasticbeanstalk.com:80 "GET /v2/products/sku-attributes// HTTP/1.1" 200 None
+[2021-06-23 17:20:35,249] DESKTOP-41IO6G7/INFO/root: Log message
+[2021-06-23 17:20:38,937] DESKTOP-41IO6G7/DEBUG/urllib3.connectionpool: http://suprdaily-staging-2.ap-south-1.elasticbeanstalk.com:80 "GET /v2/products/sku-attributes// HTTP/1.1" 200 None
+[2021-06-23 17:20:39,008] DESKTOP-41IO6G7/INFO/root: Log message
+[2021-06-23 17:20:42,509] DESKTOP-41IO6G7/DEBUG/urllib3.connectionpool: http://suprdaily-staging-2.ap-south-1.elasticbeanstalk.com:80 "GET /v2/products/sku-attributes// HTTP/1.1" 200 None
+[2021-06-23 17:20:42,552] DESKTOP-41IO6G7/INFO/root: Log message
+[2021-06-23 17:20:46,845] DESKTOP-41IO6G7/DEBUG/urllib3.connectionpool: http://suprdaily-staging-2.ap-south-1.elasticbeanstalk.com:80 "GET /v2/products/sku-attributes// HTTP/1.1" 200 None
+[2021-06-23 17:20:46,869] DESKTOP-41IO6G7/INFO/root: Log message
+[2021-06-23 17:20:50,240] DESKTOP-41IO6G7/DEBUG/urllib3.connectionpool: http://suprdaily-staging-2.ap-south-1.elasticbeanstalk.com:80 "GET /v2/products/sku-attributes// HTTP/1.1" 200 None
+[2021-06-23 17:20:50,297] DESKTOP-41IO6G7/INFO/root: Log message
+[2021-06-23 17:20:53,869] DESKTOP-41IO6G7/DEBUG/urllib3.connectionpool: http://suprdaily-staging-2.ap-south-1.elasticbeanstalk.com:80 "GET /v2/products/sku-attributes// HTTP/1.1" 200 None
+[2021-06-23 17:20:53,900] DESKTOP-41IO6G7/INFO/root: Log message
+[2021-06-23 17:20:57,099] DESKTOP-41IO6G7/DEBUG/urllib3.connectionpool: http://suprdaily-staging-2.ap-south-1.elasticbeanstalk.com:80 "GET /v2/products/sku-attributes// HTTP/1.1" 200 None
+[2021-06-23 17:20:57,134] DESKTOP-41IO6G7/INFO/root: Log message
+[2021-06-23 17:21:00,970] DESKTOP-41IO6G7/DEBUG/urllib3.connectionpool: http://suprdaily-staging-2.ap-south-1.elasticbeanstalk.com:80 "GET /v2/products/sku-attributes// HTTP/1.1" 200 None
+[2021-06-23 17:21:01,014] DESKTOP-41IO6G7/INFO/root: Log message
+[2021-06-23 17:21:04,433] DESKTOP-41IO6G7/DEBUG/urllib3.connectionpool: http://suprdaily-staging-2.ap-south-1.elasticbeanstalk.com:80 "GET /v2/products/sku-attributes// HTTP/1.1" 200 None
+[2021-06-23 17:21:04,473] DESKTOP-41IO6G7/INFO/root: Log message
+[2021-06-23 17:21:05,527] DESKTOP-41IO6G7/INFO/locust.main: Running teardowns...
+[2021-06-23 17:21:05,527] DESKTOP-41IO6G7/INFO/locust.main: Shutting down (exit code 0), bye.
+[2021-06-23 17:21:05,528] DESKTOP-41IO6G7/INFO/locust.main: Cleaning up runner...
+[2021-06-23 17:21:05,528] DESKTOP-41IO6G7/DEBUG/locust.runners: Stopping all users
+[2021-06-23 17:21:05,529] DESKTOP-41IO6G7/INFO/locust.runners: Stopping 1 users
+[2021-06-23 17:21:05,529] DESKTOP-41IO6G7/DEBUG/locust.runners: Stopping Greenlet-0
+[2021-06-23 17:21:05,531] DESKTOP-41IO6G7/INFO/locust.runners: 1 Users have been stopped, 0 still running
